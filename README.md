@@ -1,5 +1,7 @@
 # image-filter
-Here to build image-filter ,which is resposive and attractive interface by using html and javascript
+Here to build image-filter ,which is resposive and attractive interface by using html,bootstrap  and javascript.
+
+
  Image -filter, your go-to destination for enhancing and transforming your images with our powerful and innovative image filter tools. Whether you're a professional photographer, a social media enthusiast, or simply someone who loves to add that extra touch to your pictures, our website offers a range of creative filters and effects to take your images to the next level.
 
 With our user-friendly interface, editing your photos has never been easier. Simply upload your image to our platform and explore a wide selection of filters, each designed to evoke different moods, styles, and aesthetics. From classic vintage looks to modern and bold effects, we have a filter for every occasion.
